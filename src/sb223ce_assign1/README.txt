@@ -1,0 +1,10 @@
+Exercise 1 = Multiples.java
+Exercise 2 = Fibonacci.java
+Exercise 3 = PerfectNumber.java
+Exercise 4 = AgeDifference.java
+Exercise 5 = TextProcessor.java
+Exercise 6 = Histogram.java
+Exercise 7 = Point.java
+Exercise 8 = Invoice.java, and InvoiceTest.java
+Exercise 9 = Time.java, and TimeDemo.java
+Exercise 10 = Arrays.java, and ArraysMain.java 
